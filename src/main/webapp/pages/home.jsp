@@ -7,7 +7,7 @@
 </head>
 <body>
 <jsp:include page="banner.jsp"></jsp:include>
-<div class="news-row">
+<div class="container">
 		<div style="min-height: 650px; float: left;padding-left: 20px;">
 			<!-- <h4><span class="floatL" style="padding: 20px 0; font-size: 25px;">欢迎使用数据所新闻发布系统</span></h4>
 			<h3>基本操作流程：</h3> -->

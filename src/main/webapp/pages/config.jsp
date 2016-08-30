@@ -7,7 +7,7 @@
 </head>
 <body>
 <jsp:include page="banner.jsp"></jsp:include>
-<div class="news-row" style="text-align:center;min-height: 650px;">
+<div class="container" style="text-align:center;">
 	<h4><span style="padding: 20px 0; font-size: 25px;">正在开发中</span></h4>
 </div>
 <jsp:include page="footer.jsp"></jsp:include>

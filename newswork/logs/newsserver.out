@@ -1,165 +1,107 @@
-[10:52:04] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/newsserver/newswork
-[10:52:59] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/newsserver/newswork
-[11:19:08] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[13:38:03] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[13:38:46] DEBUG [DataController] - Process : news.getRecommand Start
-[13:40:15] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[13:40:22] DEBUG [DataController] - Process : news.getRecommand Start
-[13:40:25] DEBUG [DataController] - Process : news.getRecommand Start
-[13:41:21] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[13:41:27] DEBUG [DataController] - Process : news.getRecommand Start
-[13:41:27] DEBUG [NewsWorker] - 
-[13:41:27] DEBUG [DataController] - Process : news.getRecommand End
-[13:43:40] DEBUG [DataController] - Process : news.getRecommand Start
-[13:43:40] DEBUG [NewsWorker] - Get Recommand News Success!
-[13:43:41] DEBUG [DataController] - Process : news.getRecommand End
-[13:43:53] DEBUG [DataController] - Process : news.getRecommand Start
-[13:43:53] DEBUG [NewsWorker] - Get Recommand News Success!
-[13:43:53] DEBUG [DataController] - Process : news.getRecommand End
-[13:47:02] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[13:47:22] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[13:47:32] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[13:48:02] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[14:33:44] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[14:49:54] DEBUG [DataController] - Process : init.getSystemMenu Start
-[14:49:55] DEBUG [DataController] - Process : init.getSystemMenu End
-[14:55:38] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[14:56:14] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[14:56:21] DEBUG [DataController] - Process : init.getSystemMenu Start
-[14:56:21] DEBUG [DataController] - Process : init.getSystemMenu End
-[14:56:30] DEBUG [DataController] - Process : init.getSystemMenu Start
-[14:56:30] DEBUG [DataController] - Process : init.getSystemMenu End
-[14:56:31] DEBUG [DataController] - Process : init.getSystemMenu Start
-[14:56:31] DEBUG [DataController] - Process : init.getSystemMenu End
-[14:56:35] DEBUG [DataController] - Process : init.getSystemMenu Start
-[14:56:35] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:11:39] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[15:12:05] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:12:05] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:12:17] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:12:17] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:12:19] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:12:19] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:12:24] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:12:24] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:12:26] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:12:26] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:12:28] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:12:28] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:14:13] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:14:13] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:14:17] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:14:17] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:14:19] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:14:19] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:14:21] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:14:21] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:16:48] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:16:48] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:16:51] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:16:51] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:16:52] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:16:52] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:16:53] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:16:53] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:19:43] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:19:43] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:19:46] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:19:47] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:19:47] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:19:47] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:19:48] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:19:48] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:20:19] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:20:19] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:22:46] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:22:46] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:23:06] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:23:06] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:23:09] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:23:09] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:23:18] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:23:18] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:00] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:00] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:03] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:03] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:04] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:04] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:09] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:09] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:10] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:10] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:22] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:22] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:49] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:49] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:52] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:52] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:53] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:53] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:55] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:55] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:56] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:56] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:24:56] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:24:56] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:06] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:06] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:08] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:08] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:10] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:10] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:11] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:11] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:12] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:12] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:13] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:13] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:14] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:14] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:14] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:14] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:16] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:16] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:20] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:20] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:22] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:22] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:26:25] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:26:25] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:23] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
-[15:34:39] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:39] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:41] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:41] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:46] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:46] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:47] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:47] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:50] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:50] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:51] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:51] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:52] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:52] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:34:53] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:34:53] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:35:50] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:35:50] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:35:51] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:35:51] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:35:52] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:35:52] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:36:07] DEBUG [DataController] - Process : news.getRecommand Start
-[15:36:07] DEBUG [NewsWorker] - Get Recommand News Success!
-[15:36:07] DEBUG [DataController] - Process : news.getRecommand End
-[15:40:36] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:40:36] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:53:20] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:53:20] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:53:31] DEBUG [DataController] - Process : init.getSystemMenu Start
-[15:53:31] DEBUG [DataController] - Process : init.getSystemMenu End
-[15:53:36] DEBUG [DataController] - Process : news.getRecommand Start
-[15:53:36] DEBUG [NewsWorker] - Get Recommand News Success!
-[15:53:36] DEBUG [DataController] - Process : news.getRecommand End
+[14:41:06] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
+[14:42:21] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:42:21] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:42:26] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:42:26] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:42:27] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:42:27] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:46:29] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:46:29] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:52:08] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
+[14:52:17] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:52:17] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:52:21] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:52:21] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:52:37] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:52:37] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:52:48] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:52:48] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:52:50] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:52:50] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:53:40] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:53:40] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:53:44] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:53:44] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:53:48] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:53:48] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:53:54] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:53:54] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:53:57] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:53:57] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:53:58] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:53:58] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:53:59] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:53:59] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:54:01] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:54:01] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:54:02] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:54:02] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:54:15] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:54:15] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:54:16] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:54:16] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:54:18] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:54:18] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:55:31] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:55:31] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:55:47] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:55:47] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:56:01] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:56:01] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:56:19] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:56:19] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:56:36] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:56:36] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:56:39] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:56:39] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:56:40] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:56:40] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:57:09] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:57:09] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:57:45] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:57:45] DEBUG [DataController] - Process : init.getSystemMenu End
+[14:58:03] DEBUG [DataController] - Process : init.getSystemMenu Start
+[14:58:03] DEBUG [DataController] - Process : init.getSystemMenu End
+[16:27:58] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
+[16:29:11] DEBUG [DataController] - Process : init.getSystemMenu Start
+[16:29:11] DEBUG [DataController] - Process : init.getSystemMenu End
+[16:29:25] DEBUG [DataController] - Process : init.getSystemMenu Start
+[16:29:25] DEBUG [DataController] - Process : init.getSystemMenu End
+[16:33:43] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
+[16:33:51] DEBUG [DataController] - Process : init.getSystemMenu Start
+[16:33:51] DEBUG [DataController] - Process : init.getSystemMenu End
+[16:36:07] DEBUG [DataController] - Process : news.createNews Start
+[16:36:21] DEBUG [DataController] - Process : news.createNews Start
+[16:44:29] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
+[16:46:54] DEBUG [DataController] - Process : init.getSystemMenu Start
+[16:46:54] DEBUG [DataController] - Process : init.getSystemMenu End
+[16:48:47] DEBUG [DataController] - Process : news.createNews Start
+[16:48:47] DEBUG [DataController] - Process : news.createNews End
+[16:49:08] DEBUG [DataController] - Process : news.createNews Start
+[16:49:08] DEBUG [DataController] - Process : news.createNews End
+[16:49:30] DEBUG [DataController] - Process : news.createNews Start
+[16:49:30] DEBUG [DataController] - Process : news.createNews End
+[16:56:32] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
+[16:56:42] DEBUG [DataController] - Process : init.getSystemMenu Start
+[16:56:42] DEBUG [DataController] - Process : init.getSystemMenu End
+[16:56:47] DEBUG [DataController] - Process : news.createNews Start
+[16:56:47] DEBUG [DataController] - Process : news.createNews End
+[16:58:27] DEBUG [DataController] - Process : init.getSystemMenu Start
+[16:58:27] DEBUG [DataController] - Process : init.getSystemMenu End
+[16:58:29] DEBUG [DataController] - Process : news.createNews Start
+[16:58:29] DEBUG [DataController] - Process : news.createNews End
+[16:59:11] DEBUG [DataController] - Process : news.createNews Start
+[16:59:11] DEBUG [DataController] - Process : news.createNews End
+[16:59:34] DEBUG [DataController] - Process : news.createNews Start
+[16:59:34] DEBUG [DataController] - Process : news.createNews End
+[17:01:36] DEBUG [DataController] - Process : news.getNews Start
+[17:01:36] DEBUG [DataController] - Process : news.getNews End
+[17:05:49] INFO [InitNewsServer] - Init NewsServer Project Done! baseDir=/home/tongdongsheng/webworkspace/serverwork/news-server/newswork
+[17:06:01] DEBUG [DataController] - Process : news.createNews Start
+[17:06:01] DEBUG [NewsWorker] - content= <p>
+	zhong guo ying xiong</p>
+<p>
+	<img alt="" height="300" src="/news/upload/images/dashboard.jpg" width="400" /></p>
+[17:06:01] DEBUG [DataController] - Process : news.createNews End
+[17:06:18] DEBUG [DataController] - Process : news.getNews Start
+[17:06:18] DEBUG [DataController] - Process : news.getNews End
