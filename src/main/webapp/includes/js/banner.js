@@ -16,7 +16,8 @@ function BannerJs () {
 	this.data = [
 	             { id :"01",url:"/news/page/home",name:"首页"},
 	             { id :"02",url:"/news/page/pubnews",name:"新闻发布"},
-	             { id :"03",url:"/news/page/config",name:"服务器配置"}
+	             { id :"03",url:"/news/page/newslist",name:"新闻列表"},
+	             { id :"04",url:"/news/page/config",name:"服务器配置"}
 	             
 	            ];
 	this.menuDom = $('#menuTop');

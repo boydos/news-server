@@ -6,4 +6,5 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery-ui.min.js"></script>
 <script src="js/chosen.jquery.min.js"></script>
+<script src="includes/js/dom.help.bigknow.js"></script>
 <script src="includes/js/loadingHelper.js"></script>

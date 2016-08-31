@@ -22,16 +22,29 @@ public class NewsWorker extends BaseNewsWorker{
 			return;
 		}	
 	}
-	public void getNews(PassModel passModel) {
-		String tag = passModel.getPara("tag");
-		if(StringUtil.isEmpty(tag)) {
-			tag = "default";
-		}
-		ModelBean response = ResultUtils.getSuccess("新闻获取成功");
-		response.set("list", MemStore.getNews(tag));
-		
+	public void getNewsAll(PassModel passModel) {
+		ModelBean response = ResultUtils.getSuccess("全部新闻获取成功");
+		response.set("list", MemStore.getNewsList());
 		passModel.setResponseContent(response.toJson());
 	}
+	public void getNewsByTag(PassModel passModel) {
+		String tag = passModel.getPara("tag");
+		ModelBean response = ResultUtils.getSuccess("新闻获取成功");
+		response.set("list", MemStore.getNewsByTag(tag));
+		passModel.setResponseContent(response.toJson());
+	}
+	
+	public void getNewsById(PassModel passModel) {
+		String id = passModel.getPara("_id");
+		ModelBean response =ResultUtils.getSuccess("新闻获取成功");
+		ModelBean news =MemStore.getNewsById(id);
+		response.set("title", news.getString("title"));
+		response.set("content", news.getString("content"));
+		response.set("date",news.getString("date"));
+		response.set("tag", news.getString("tag"));
+		passModel.setResponseContent(response.toJson());
+	}
+	
 	
 	public void createNews(PassModel passModel) {
 		String title = passModel.getPara("title");
@@ -53,11 +66,10 @@ public class NewsWorker extends BaseNewsWorker{
 		ModelBean news = new ModelBean();
 		news.set("title", title);
 		news.set("content", content);
-		
 		news.set("date",getNowDate());
 		news.set("tag", tag);
-		int ret =MemStore.addNews(tag, news);
-		passModel.setResponseContent(ResultHelper.getSuccess(String.format("新闻添加成功-[%s==%d]", tag,ret)));
+		String uid =MemStore.addNews(news);
+		passModel.setResponseContent(ResultHelper.getSuccess(String.format("新闻添加成功-[%s]",uid)));
 	}
 	
 	private String getNowDate() {

@@ -11,7 +11,7 @@ public class InitWorker extends BaseNewsWorker{
 		if(Global.test) {
 			result.set("s", 1);
 			result.set("i", "执行成功!");
-			result.set("menuid", "01,02,03");
+			result.set("menuid", "01,02,03,04");
 		} else {
 			result.set("s", 0);
 			result.set("i", "执行失败!");

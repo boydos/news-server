@@ -4,6 +4,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 
 import com.sdt.newsserver.InitNewsServer;
+import com.sdt.newsserver.utils.MemStore;
 
 public class InitNewsServlet extends HttpServlet{
 
@@ -18,4 +19,10 @@ public class InitNewsServlet extends HttpServlet{
 		InitNewsServer.init();
 	}
 
+	@Override
+	public void destroy() {
+		// TODO Auto-generated method stub
+		MemStore.flushToDisk();
+	}
+	
 }

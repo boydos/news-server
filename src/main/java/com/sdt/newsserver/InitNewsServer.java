@@ -5,6 +5,7 @@ import java.util.ResourceBundle;
 
 import com.bigknow.minero.log.MLog;
 import com.bigknow.minero.log.MLogFactory;
+import com.sdt.newsserver.utils.MemStore;
 
 public class InitNewsServer {
 	private static ResourceBundle serverConfig = null;
@@ -30,6 +31,7 @@ public class InitNewsServer {
     		
     	});
     	 MLog log = MLog.getLog(InitNewsServer.class);
+    	 MemStore.readFromDisk();
     	 log.info("Init NewsServer Project Done! baseDir="+baseDir);
     }
     public static String getBaseDir() {
@@ -38,6 +40,9 @@ public class InitNewsServer {
 
     public static String getJsonDir() {
         return baseDir + "/json/";
+    }
+    public static String getFileDir() {
+    	return baseDir + "/file/";
     }
     public static int getConfigInt ( String key ) {
     	return getConifgInt(key, 0);

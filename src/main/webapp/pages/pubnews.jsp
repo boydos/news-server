@@ -12,7 +12,7 @@
 <jsp:include page="banner.jsp"></jsp:include>
 <div class="container">
 	<div class="row">
-		<div class="col-md-9">
+		<div class="col-md-12">
 		
 			 <div class="formTitle">标题 *</div>
 			 <div class="formInput form-group">

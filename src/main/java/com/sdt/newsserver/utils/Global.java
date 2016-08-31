@@ -1,5 +1,7 @@
 package com.sdt.newsserver.utils;
 
+import java.util.UUID;
+
 public class Global {
 	public final static boolean test = true;
 	
@@ -10,4 +12,7 @@ public class Global {
 	public final static String NEWS_TAG_TY ="tiyu";
 	public final static String NEWS_TAG_OTHER ="other";
 	
+	public static String getUniqueId() {
+		return UUID.randomUUID().toString();
+	}
 }
